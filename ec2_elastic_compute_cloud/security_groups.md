@@ -1,5 +1,5 @@
 
-# 7. Security Groups (Güvenlik Grupları)
+# Security Groups (Güvenlik Grupları)
 
 ## Security Group Nedir?
 Security Group, AWS üzerinde EC2 instance’larınız için bir güvenlik duvarı görevi gören ve gelen-giden trafiği kontrol eden bir güvenlik katmanıdır. AWS, Security Group'ları kullanarak instance’larınıza yalnızca güvenli ve belirlenmiş kaynaklardan erişime izin vermenizi sağlar.

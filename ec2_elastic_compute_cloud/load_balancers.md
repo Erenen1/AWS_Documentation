@@ -1,4 +1,4 @@
-# 7. Load Balancer (Yük Dengeleyiciler)
+# Load Balancer (Yük Dengeleyiciler)
 
 ## Load Balancer Nedir?
 

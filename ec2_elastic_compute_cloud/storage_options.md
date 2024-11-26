@@ -1,5 +1,5 @@
 
-# 4. Depolama Seçenekleri
+# Depolama Seçenekleri
 
 Amazon EC2, farklı iş yükleri ve kullanım senaryoları için çeşitli depolama seçenekleri sunar. Bu seçenekler, performans, dayanıklılık ve erişim özellikleri açısından farklılık gösterir. Aşağıda, EC2 ile birlikte kullanılabilen başlıca depolama çözümleri detaylı olarak incelenmiştir.
 

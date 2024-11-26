@@ -1,5 +1,5 @@
 
-## 3. Instance Türleri
+## Instance Türleri
 
 AWS EC2, farklı iş yüklerini karşılamak için çeşitli instance türleri sunar:
 

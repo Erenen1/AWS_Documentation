@@ -1,5 +1,5 @@
 
-# 7. AMI (Amazon Machine Image)
+# AMI (Amazon Machine Image)
 
 ## AMI Nedir?
 Amazon Machine Image (AMI), EC2 instance’larınızı başlatmak için gerekli olan bir şablondur. AMI, işletim sistemi, uygulamalar ve konfigürasyon bilgilerini içerir. AMI, AWS'de yeni EC2 instance'ları hızlı bir şekilde başlatmak ve aynı yapılandırmayı birden fazla instance üzerinde tekrarlamak için kullanılır.

@@ -1,5 +1,5 @@
 
-## 2. Ödeme Yöntemleri
+## Ödeme Yöntemleri
 
 AWS EC2, kullanıcıların iş yükleri ve bütçelerine göre seçebileceği çeşitli ödeme yöntemleri sunar:
 
