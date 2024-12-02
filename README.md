@@ -1,3 +1,3 @@
-# AWS Dokümantasyonu
+# AWS Documentation
 
-Bu depo, Amazon Web Services (AWS) ile ilgili çeşitli hizmetler hakkında detaylı bilgiler içeren bir not arşividir. Her bölüm, belirli bir AWS hizmeti veya kavramı hakkında kapsamlı bilgiler sunan markdown dosyalarını içerir. Kendi öğrenme sürecimi kolaylaştırmak ve AWS konularını daha iyi anlamak için hazırlanmıştır.
+This repository is a collection of detailed notes about various services provided by Amazon Web Services (AWS). Each section contains markdown files that offer comprehensive information on specific AWS services or concepts. It has been prepared to facilitate my learning process and to enhance my understanding of AWS topics.
